@@ -14,4 +14,3 @@ Python · SQL · Linux · Git
 
 # Contact
 LinkedIn: www.linkedin.com/in/md-rubayet-alam
-Add README with intro and progress
