@@ -1,0 +1,24 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Secret file
+.env
+*.key
+credentials.json
+
+# Big data
+*.csv
+*.log
+*.parquet
+data/
+
+# সিস্টThrash
+.DS_Store
+Thumbs.db
+
+# editor
+.vscode/
+.idea/
