@@ -9,8 +9,8 @@ I am Md. Rubayet Alam, currently pursuing an MBA in Business Analytics, Informat
 WK 1 - Introduction to Data Engineering, Linux Command line - 
 WK 2 - Git, GitHub, Introduction to Python - 
 
-#Software & Tools
+# Software & Tools
 Python · SQL · Linux · Git
 
-#Contact
+# Contact
 LinkedIn: www.linkedin.com/in/md-rubayet-alam
