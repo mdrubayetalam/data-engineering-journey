@@ -15,7 +15,7 @@ credentials.json
 *.parquet
 data/
 
-# সিস্টThrash
+# Thrash
 .DS_Store
 Thumbs.db
 
